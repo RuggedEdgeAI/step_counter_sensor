@@ -1,4 +1,4 @@
-## IS-SW1.1 StepCounter Demo:
+## EdgeWatch StepCounter Demo:
 This app is designed to track the number of steps you take, using **Sensor.TYPE_STEP_COUNTER** . When the app starts, it also starts a timer right away. As you walk, the app will show the number of steps you've taken and the time recorded by the timer on the screen.
 
 
